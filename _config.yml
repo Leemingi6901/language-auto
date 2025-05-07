@@ -1,0 +1,25 @@
+title: "Mengi's Daily Language Auto Study"
+description: "매일 자동으로 다국어 학습 포스트가 업데이트되는 블로그입니다 🌍"
+baseurl: "/language-auto"  # GitHub Pages 서브경로
+url: "https://leemingi6901.github.io"
+theme: minima
+
+permalink: /:categories/:year/:month/:day/:title.html
+
+collections:
+  posts:
+    output: true
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post
+      author: Daniel
+
+markdown: kramdown
