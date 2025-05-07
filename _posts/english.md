@@ -1,6 +1,6 @@
 ---
 title: "Day 1 - Meeting Expressions"
-date: 2025-05-07
+date: 2025-05-06
 categories: english
 ---
 
