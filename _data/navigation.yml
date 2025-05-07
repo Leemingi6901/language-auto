@@ -1,0 +1,11 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "English"
+    url: /categories/english/
+  - title: "Japanese"
+    url: /categories/japanese/
+  - title: "French"
+    url: /categories/french/
+  - title: "Chinese"
+    url: /categories/chinese/
