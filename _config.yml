@@ -23,3 +23,8 @@ defaults:
       author: Daniel
 
 markdown: kramdown
+
+remote_theme: "mmistakes/minimal-mistakes@4.27.1"
+plugins:
+  - jekyll-feed
+  - jekyll-include-cache
