@@ -1,2 +1,2 @@
 # language-auto
-A journal of daily multilingual learning
+a journal of daily multilingual learning
